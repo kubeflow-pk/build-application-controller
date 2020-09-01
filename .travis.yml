@@ -2,7 +2,7 @@ dist: application-controller
 
 env:
   global:
-    - IMAGE_NAME=pkskubeflow/kubernetes-sigs/application:1.0-beta
+    - IMAGE_NAME=pkskubeflow/application:1.0-beta
     - CODE_TAG=master
     
 arch:
